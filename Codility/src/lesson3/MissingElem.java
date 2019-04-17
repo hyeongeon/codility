@@ -2,6 +2,14 @@ package lesson3;
 
 public class MissingElem {
 	public int solution(int[] A) {
+		
+		/*
+		 * Task Score: 100%
+		 * Correctness: 100%
+		 * Performance: 100%
+		 * Detected time complexity: O(N) or O(N * log(N))
+		 * */
+		
 		int sumOfIndex = 0;
 		int sumOfValue = 0;
 		
